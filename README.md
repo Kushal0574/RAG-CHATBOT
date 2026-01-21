@@ -22,6 +22,3 @@ pip install -r requirements.txt
 export OPENAI_API_KEY=your_key_here
 streamlit run app.py
 ```
-
-## Resume Value
-Demonstrates RAG pipelines, vector search, LLM orchestration, and full-stack AI apps.
